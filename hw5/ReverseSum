@@ -1,0 +1,2 @@
+javac ReverseSum.java
+java -jar artifacts_reverse_ReverseSumTest.jar
